@@ -22,3 +22,18 @@ REFERENCES GENRES
   CODE 
 )
 ENABLE;
+
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2203314168', 'LEFRANC-L''ultimatum', 'Martin, Carin', 'BD', 'Casterman');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2746021285', 'HTML entraînez-vous pour maîtriser le code source', 'Luc Van Lancker', 'INF', 'ENI');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2746026090', 'Oracle 12c SQL, PL/SQL, SQL*Plus', 'J. Gabillaud', 'INF', 'ENI');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2266085816', 'Pantagruel', 'François RABELAIS', 'ROM', 'POCKET');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2266091611', 'Voyage au centre de la terre', 'Jules Verne', 'ROM', 'POCKET');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2253010219', 'Le crime de l''Orient Express', 'Agatha Christie', 'POL', 'Livre de Poche');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2070400816', 'Le Bourgeois gentilhomme', 'Moliere', 'THE', 'Gallimard');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2070367177', 'Le curé de Tours', 'Honoré de Balzac', 'ROM', 'Gallimard');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2080720872', 'Boule de suif', 'Guy de Maupassant', 'REC', 'Flammarion');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2877065073', 'La gloire de mon père', 'Marcel Pagnol ', 'ROM', 'Fallois');
+INSERT INTO OUVRAGES (ISBN, TITRE, GENRES, EDITEUR) VALUES ('2020549522', 'L''aventure des manuscrits de la mer morte', 'REC', 'Seuil');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2253006327', 'Vingt mille lieues sous les mers', 'Jules Verne', 'ROM', 'LGF');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2038704015', 'De la terre à la lune', 'Jules Verne', 'ROM', 'Larousse');
+INSERT INTO OUVRAGES (ISBN, TITRE, AUTEUR, GENRES, EDITEUR) VALUES ('2080703234', 'Cinq semaines en ballon', 'Jules Verne', 'ROM', 'Flammarion');
