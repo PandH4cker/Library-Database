@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.0.2
+## Last Release Version: 0.0.3
 ### Changelog:
+> #### Version 0.0.3
+> Adding of Trigger for the sequence of Membres table
+---
 > #### Version 0.0.2
 > Adding of Sequence for autoincrement Membres table
 ---
