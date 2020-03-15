@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.1.1
+## Last Release Version: 0.1.2
 ### Changelog:
+> #### Version 0.1.2
+> Adding a function to retrieve the limit date that for which a member could still borrow a book.
+---
 > #### Version 0.1.1
 > Adding a new virtual column FinAdhesion in Membres table.
 ---
