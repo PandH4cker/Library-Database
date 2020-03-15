@@ -41,3 +41,6 @@ Insert into EMPRUNTS (NUMERO,MEMBRE,CREELE) values ('17','1',to_date('08/02/17',
 Insert into EMPRUNTS (NUMERO,MEMBRE,CREELE) values ('18','5',to_date('18/02/17','DD/MM/RR'));
 Insert into EMPRUNTS (NUMERO,MEMBRE,CREELE) values ('19','4',to_date('28/02/17','DD/MM/RR'));
 Insert into EMPRUNTS (NUMERO,MEMBRE,CREELE) values ('20','1',to_date('10/03/17','DD/MM/RR'));
+
+ALTER TABLE EMPRUNTS 
+ADD (ETAT CHAR(2) DEFAULT 'EC' );
