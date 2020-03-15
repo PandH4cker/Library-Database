@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.0.7
+## Last Release Version: 0.0.8
 ### Changelog:
+> #### Version 0.0.8
+> Inserted new values in DetailsEmprunts table based on sysdate.
+---
 > #### Version 0.0.7
 > Adding T-SQL Script to change the etat value in emprunts table according if in the detailsemprunts the book has been returned or not.
 ---
