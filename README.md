@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.0.4
+## Last Release Version: 0.0.5
 ### Changelog:
+> #### Version 0.0.5
+> Adding a new column ETAT in Emprunts table and added default value EC in it
+---
 > #### Version 0.0.4
 > Inserted values in the tables
 ---
