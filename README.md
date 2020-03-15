@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.0.9
+## Last Release Version: 0.1.0
 ### Changelog:
+> #### Version 0.1.0
+> Adding PL/SQL Procedure to update exemplaires table.
+---
 > #### Version 0.0.9
 > Adding T-SQL Script to update Exemplaires table.
 ---
