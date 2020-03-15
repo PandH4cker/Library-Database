@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.1.0
+## Last Release Version: 0.1.1
 ### Changelog:
+> #### Version 0.1.1
+> Adding a new virtual column FinAdhesion in Membres table.
+---
 > #### Version 0.1.0
 > Adding PL/SQL Procedure to update exemplaires table.
 ---
