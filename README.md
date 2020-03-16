@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.1.2
+## Last Release Version: 0.1.3
 ### Changelog:
+> #### Version 0.1.3
+> Adding a function to track members activity.
+---
 > #### Version 0.1.2
 > Adding a function to retrieve the limit date that for which a member could still borrow a book.
 ---
@@ -42,4 +45,3 @@
 ---
 > #### Version 0.0.1
 > Adding of SQL scripts for creating the tables.
-
