@@ -5,8 +5,12 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.1.3
+## Last Release Version: 0.1.4
 ### Changelog:
+> #### Version 0.1.4
+> Adding a procedure to handle the insertion of one borrow based on sysdate for the creation date and respectively his detail in detailsemprunts table.
+> Adding a sequence to handle the next value for the insertion of the borrow in the table emprunts
+---
 > #### Version 0.1.3
 > Adding a function to track members activity.
 ---
