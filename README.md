@@ -5,14 +5,17 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.1.5
+## Last Release Version: 0.1.6
 ### Changelog:
+> #### Version 0.1.6
+> Adding a trigger to handle invalid final adhesion date.
+---
 > #### Version 0.1.5
 > Adding a function to track the number of book not returned.
 ---
 > #### Version 0.1.4
 > Adding a procedure to handle the insertion of one borrow based on sysdate for the creation date and respectively his detail in detailsemprunts table.
-> Adding a sequence to handle the next value for the insertion of the borrow in the table emprunts
+> Adding a sequence to handle the next value for the insertion of the borrow in the table emprunts.
 ---
 > #### Version 0.1.3
 > Adding a function to track members activity.
