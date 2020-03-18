@@ -5,8 +5,11 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 0.1.6
+## Last Release Version: 0.1.7
 ### Changelog:
+> #### Version 0.1.7
+> Adding a trigger to prevent updating membre column on emprunts table.
+---
 > #### Version 0.1.6
 > Adding a trigger to handle invalid final adhesion date.
 ---
