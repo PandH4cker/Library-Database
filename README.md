@@ -5,11 +5,14 @@
 > Database with PL-SQL functions/procedures/triggers.
 > Oracle DB has been used with Oracle SQL Developer.
 ---
-## Last Release Version: 1.0.0
+## Last Release Version: 1.0.1
 ### Changelog:
+> #### Version 1.0.1
+> Last release up-to-date.
+> Fixed genre script creating table.
+---
 > #### Version 1.0.0
 > Adding a trigger to prevent inserting or updating numero on exemplaires table.
-> Last release up-to-date.
 ---
 > #### Version 0.1.7
 > Adding a trigger to prevent updating membre column on emprunts table.
